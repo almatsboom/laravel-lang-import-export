@@ -1,4 +1,4 @@
-![Laravel-Lang-Import-Export by HighSolutions](https://raw.githubusercontent.com/highsolutions/laravel-lang-import-export/master/intro.jpg)
+![Laravel-Lang-Import-Export by HighSolutions]
 
 Laravel-Lang-Import-Export
 ==========================
